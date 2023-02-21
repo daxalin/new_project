@@ -14,4 +14,5 @@
 Получаю новые знания на [сайте](https://netology.ru/)
 
 Вот кот:
+
 ![красивый кот](http://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg)
